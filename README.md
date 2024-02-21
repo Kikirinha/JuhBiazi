@@ -1,4 +1,4 @@
-Oi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Meu nome é Julia Biazi
+Oi ![](https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif)Meu nome é Julia Biazi
 ===================================================================================================================================
 
 Front-End Developer
