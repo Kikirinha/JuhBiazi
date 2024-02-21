@@ -24,6 +24,6 @@ Oi!!! Sou estudante de Ciência da Computação na UNIP, atualmente no meu penú
 
 ### Conquistas Git
 
-<b>My GitHub Stats</b>
+<b>Meu Status Git</b>
 
 <a href="http://www.github.com/JuhBiazi"><img src="https://github-readme-stats.vercel.app/api?username=JuhBiazi&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&show_icons=true" alt="JuhBiazi's GitHub stats" /></a>
