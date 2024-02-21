@@ -1,4 +1,4 @@
-Oi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Meu nome é Julia Biazi
+Oi ![]([https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif](https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f44b.gif))Meu nome é Julia Biazi
 ===================================================================================================================================
 
 Front-End Developer
