@@ -4,7 +4,7 @@ Oi ![](https://user-images.githubusercontent.com/74038190/226127913-88de86d3-843
 Front-End Developer
 -------------------
 
-Oi!!! Sou estudante de Ciência da Computação na UNIP, atualmente no meu penúltimo semestre (7º). Atualmente estou muito interessada por desenvolvimento front-end. Embora ainda esteja no processo de aprendizado, estou dedicada a aprimorar minhas habilidades e conhecimentos nesta área. Acredito firmemente na abordagem prática de aprendizado, e aprendo rapidamente ao colocar "minhas mãos na massa". Meu objetivo é me tornar uma desenvolvedora front-end habilidosa e contribuir para projetos empolgantes que tornem a web mais bonita, intuitiva e acessível para todos. Atualmente, estou explorando tecnologias como HTML, CSS e JavaScript, e estou ansiosa para expandir meu conhecimento em frameworks e Vue.js.
+Oi!!! Sou estudante de Ciência da Computação na UNIP, atualmente no meu penúltimo semestre (7º). No momento estou muito interessada por desenvolvimento front-end. Embora ainda esteja no processo de aprendizado, estou dedicada a aprimorar minhas habilidades e conhecimentos nesta área. Acredito firmemente na abordagem prática de aprendizado, e aprendo rapidamente ao colocar "minhas mãos na massa". Meu objetivo é me tornar uma desenvolvedora front-end habilidosa e contribuir para projetos empolgantes que tornem a web mais bonita, intuitiva e acessível para todos. Atualmente, estou explorando tecnologias como HTML, CSS e JavaScript, e estou ansiosa para expandir meu conhecimento em frameworks e Vue.js.
 
 * 🌍  Moro em São Paulo, SP
 * ✉️  Contato [Jubs.biazi@gmail.com](mailto:Jubs.biazi@gmail.com)
