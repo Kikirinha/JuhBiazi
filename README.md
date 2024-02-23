@@ -8,7 +8,7 @@ Sou estudante de Ciência da Computação na UNIP, atualmente no meu penúltimo 
 
 * 🌍  Moro em São Paulo, SP
 * ✉️  Contato [Jubs.biazi@gmail.com](mailto:Jubs.biazi@gmail.com)
-* 🚀  Atualmente estou mexendo com o site [P2Win](http://www.p2win.com.br)<a href="http://www.p2win.com.br" target="_blank" rel="noreferrer"><img src="https://imgur.com/EZaqrM8.gif" width="36" height="36" alt="P2Win" /></a>
+* 🚀  Atualmente estou mexendo com o site [P2Win](http://www.p2win.com.br)<p align="left"><a href="http://www.p2win.com.br" target="_blank" rel="noreferrer"><img src="https://imgur.com/EZaqrM8.gif" width="36" height="36" alt="P2Win" /></a></p>
 * 🧠  Estou aprendendo NODE.js e Vue.js
 * ⚡  Sou Artista no meu tempo livre!
 
